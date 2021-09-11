@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 46a5dc6656a28ee4eaae4acdd717284b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StunnedGO: {fileID: 2513237396326012644, guid: c7913290523bcb7448a3797bea963f71,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

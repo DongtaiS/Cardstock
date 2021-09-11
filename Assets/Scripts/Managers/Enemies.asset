@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a160d2d46802da240b24c8481af4ffad, type: 3}
+  m_Name: Enemies
+  m_EditorClassIdentifier: 
+  EnemySetList:
+  - enemySetTypes: 0000000001000000
+    enemies:
+    - m_AssetGUID: d19bd816c8849654cab9d75d5405ecb7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: d19bd816c8849654cab9d75d5405ecb7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: d19bd816c8849654cab9d75d5405ecb7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - enemySetTypes: 00000000
+    enemies:
+    - m_AssetGUID: d19bd816c8849654cab9d75d5405ecb7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 1ee2c322dc4d1da44b6669cc62661255
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - enemySetTypes: 00000000
+    enemies:
+    - m_AssetGUID: 85f9c3c51229dd64e8a808bca0f48b7d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: be0148401b8351b40b827e7257d166ca
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - enemySetTypes: 0000000001000000
+    enemies:
+    - m_AssetGUID: 1ee2c322dc4d1da44b6669cc62661255
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 1ee2c322dc4d1da44b6669cc62661255
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - enemySetTypes: 00000000
+    enemies:
+    - m_AssetGUID: 19332b47aaaa7aa4ba37a7bd1cd2d203
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: be0148401b8351b40b827e7257d166ca
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - enemySetTypes: 00000000
+    enemies:
+    - m_AssetGUID: 59763a907b00ee44686b4eb7d08a354e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  BossSetList: []
+  EyeCultist:
+    m_AssetGUID: d19bd816c8849654cab9d75d5405ecb7
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  Slime:
+    m_AssetGUID: be0148401b8351b40b827e7257d166ca
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  Charger:
+    m_AssetGUID: 19332b47aaaa7aa4ba37a7bd1cd2d203
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  TwinRed:
+    m_AssetGUID: a807147b5c5c09c4abd5282ebaf61b3a
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  TwinBlue:
+    m_AssetGUID: 392ed961f7a13df44b77cb527e46d094
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
